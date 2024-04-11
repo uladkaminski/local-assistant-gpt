@@ -3,3 +3,4 @@
 transformers/
 __pycache__/
 .plandex/
+.DS_Store
