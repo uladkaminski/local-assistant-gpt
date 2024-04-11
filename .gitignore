@@ -1,0 +1,5 @@
+.env.dev
+.env
+transformers/
+__pycache__/
+.plandex/
